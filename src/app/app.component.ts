@@ -9,4 +9,6 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'TasksToDo';
+  nombre = 'Aplicacion de gestion de tareas';
+  descripcion = 'Seguimiento de proyectos';
 }
